@@ -7,6 +7,12 @@ Machine Learning Models: Implement various classification algorithms to predict 
 Model Evaluation: Evaluate model performance using metrics such as accuracy, precision, and recall.
 User-Friendly Interface: Develop a user-friendly interface for easy input and disease prediction.
 
+## Download the model
+link: https://drive.google.com/file/d/1LvyW874NFDoK65bZx2xEOlz3eYk_zy2T/view?usp=sharing
+
+## Download the test data 
+link: https://drive.google.com/drive/folders/1uNhumCyL7sK81h9Ycf0wcL0ryan_tGPc?usp=sharing
+
 ## Importing Required Packages and Libraries.
 ```
 import tensorflow as tf
