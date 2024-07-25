@@ -244,7 +244,9 @@ plt.ylabel('Loss')
 plt.legend()
 plt.show()
 ```
-![download](https://github.com/geethikaxshoba/kidney-disease-detection/assets/97936145/3cb6a821-6d77-44fb-90a7-599934e9653c)
-![download (1)](https://github.com/geethikaxshoba/kidney-disease-detection/assets/97936145/8090cff8-43b9-4d01-b4a7-36021c282e59)
+![image](https://github.com/user-attachments/assets/115391c5-3fe1-4364-a927-31c7f0fa8e32)
+![image](https://github.com/user-attachments/assets/d82ef8e5-1c20-4898-bd33-473d4a6ab000)
+
+
 
 
